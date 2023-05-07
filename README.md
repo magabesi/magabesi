@@ -1,4 +1,4 @@
-## Oiii eu sou a Gabriele Silva, engenheira de computação e desenvolvedora!
+## Oiii eu sou a Mari, engenheira de computação e desenvolvedora!
 <div align="center">
   <a href="https://github.com/magabesi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magabesi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
